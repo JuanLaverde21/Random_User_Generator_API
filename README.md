@@ -1,1 +1,1 @@
-# Rick_and_Morty_API
+# Random_User_Generator_API
